@@ -1,0 +1,6 @@
+START
+INPUT celcius
+fahreinheit <- fahrenheit = (celcius * 9/5) + 32.
+OUTPUT fahreinheit
+END
+
